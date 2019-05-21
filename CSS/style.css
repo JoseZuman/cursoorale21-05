@@ -1,0 +1,19 @@
+.cuadro1{
+    background-color: chocolate;
+    height: 150px; 
+    width: auto;
+}
+.cuadro2{
+    background-color: burlywood;
+    height: 150px;
+    width: auto;
+}
+#cuadro1{
+    background-color: cadetblue;
+}
+#cuadro2{
+    background-color: hotpink;
+}
+#cuadro3{
+    background-color: darkblue;
+}
